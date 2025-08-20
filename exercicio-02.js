@@ -1,10 +1,10 @@
 // tabuada simples para teste de estrutura de repetição
 // o número que queremos usar na tabuada
-const numero = 7; 
+const numero = 8; 
 
 // estrutura de repetição `for`
-// o loop vai de 1 a 10 para calcular cada linha da tabuada
-for (let i = 1; i <= 10; i++) {
+// o loop vai de 1 a 20 para calcular cada linha da tabuada
+for (let i = 1; i <= 20; i++) {
   // a variável `i` representa o número pelo qual `numero` será multiplicado
   const resultado = numero * i;
 
